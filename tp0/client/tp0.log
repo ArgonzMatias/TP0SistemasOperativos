@@ -1,0 +1,27 @@
+[INFO] 21:41:56:349 Cliente/(3565:3565): Hola! Soy un log
+[INFO] 21:41:56:351 Cliente/(3565:3565): se inicio el config
+[INFO] 21:41:56:352 Cliente/(3565:3565): valor
+[INFO] 21:41:56:352 Cliente/(3565:3565): 127.0.0.1
+[INFO] 21:41:56:352 Cliente/(3565:3565): 4444
+[INFO] 21:41:59:802 Cliente/(3565:3565): hola
+[INFO] 21:43:17:920 Cliente/(3656:3656): Hola! Soy un log
+[INFO] 21:43:17:921 Cliente/(3656:3656): se inicio el config
+[INFO] 21:43:17:922 Cliente/(3656:3656): valor
+[INFO] 21:43:17:922 Cliente/(3656:3656): 127.0.0.1
+[INFO] 21:43:17:922 Cliente/(3656:3656): 4444
+[INFO] 21:43:21:759 Cliente/(3656:3656): hola
+[INFO] 21:43:22:377 Cliente/(3656:3656): se termino el primer leer_consola
+[INFO] 21:46:11:408 Cliente/(3772:3772): Hola! Soy un log
+[INFO] 21:46:11:410 Cliente/(3772:3772): se inicio el config
+[INFO] 21:46:11:410 Cliente/(3772:3772): valor
+[INFO] 21:46:11:410 Cliente/(3772:3772): 127.0.0.1
+[INFO] 21:46:11:410 Cliente/(3772:3772): 4444
+[INFO] 21:46:13:535 Cliente/(3772:3772): buenas
+[INFO] 21:46:14:273 Cliente/(3772:3772): se termino el primer leer_consola
+[INFO] 20:32:03:172 Cliente/(3038:3038): Hola! Soy un log
+[INFO] 20:32:03:179 Cliente/(3038:3038): se inicio el config
+[INFO] 20:32:03:179 Cliente/(3038:3038): valor
+[INFO] 20:32:03:181 Cliente/(3038:3038): 127.0.0.1
+[INFO] 20:32:03:181 Cliente/(3038:3038): 4444
+[INFO] 20:32:06:369 Cliente/(3038:3038): hola
+[INFO] 20:32:07:819 Cliente/(3038:3038): se termino el primer leer_consola

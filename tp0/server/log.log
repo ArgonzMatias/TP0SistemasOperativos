@@ -1,0 +1,13 @@
+[INFO] 21:41:46:857 Servidor/(3505:3505): inicio de proceso, esperando cliente
+[INFO] 21:41:46:857 Servidor/(3505:3505): Servidor listo para recibir cliente!
+[INFO] 21:42:02:240 Servidor/(3505:3505): Se conecto un cliente!
+[ERROR] 21:43:09:527 Servidor/(3505:3505): el cliente se desconecto. Terminando servidor
+[INFO] 21:46:03:643 Servidor/(3726:3726): inicio de proceso, esperando cliente
+[INFO] 21:46:03:644 Servidor/(3726:3726): Servidor listo para recibir cliente!
+[INFO] 21:46:14:273 Servidor/(3726:3726): Se conecto un cliente!
+[INFO] 21:46:14:274 Servidor/(3726:3726): Me llego el mensaje valor
+[INFO] 21:46:35:720 Servidor/(3726:3726): Me llegaron los siguientes valores:
+
+[INFO] 21:46:35:721 Servidor/(3726:3726): messi campeon del mundoh!
+[INFO] 21:46:35:721 Servidor/(3726:3726): dibu es god
+[ERROR] 21:46:35:721 Servidor/(3726:3726): el cliente se desconecto. Terminando servidor
